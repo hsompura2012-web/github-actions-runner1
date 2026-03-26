@@ -18,7 +18,7 @@
       env:
         NAME: "{{ item }}"
         TOKEN: "{{ TOKEN }}"
-        ORG: "https://github.com/raghudevopsb87"
+        ORG: "https://github.com/hsompura2012-web"
     loop:
       - runner1
       - runner2
